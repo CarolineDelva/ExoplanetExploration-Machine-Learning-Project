@@ -14,15 +14,6 @@ The purpose of this project is t
 
 ### Before You Begin
 
-1. Create a new repository for this project called `machine-learning-challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Give each model you choose their own Jupyter notebook, **do not use more than one model per notebook.**
-
-4. Save your best model to a file. This will be the model used to test your accuracy and used for grading.
-
-5. Commit your Jupyter notebooks and model file and push them to GitHub.
 
 ## Note
 
@@ -86,7 +77,7 @@ In this homework assignment, you will need to:
 
 - - -
 
-## Submission
+## Get Started
 
 * Create a Jupyter Notebook for each model and host the notebooks on GitHub.
 
@@ -96,7 +87,17 @@ In this homework assignment, you will need to:
 
 * Submit the link to your GitHub project to Bootcamp Spot.
 
-##### © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+1. Create a new repository for this project called `machine-learning-challenge`. **Do not add this homework to an existing repository**.
+
+2. Clone the new repository to your computer.
+
+3. Give each model you choose their own Jupyter notebook, **do not use more than one model per notebook.**
+
+4. Save your best model to a file. This will be the model used to test your accuracy and used for grading.
+
+5. Commit your Jupyter notebooks and model file and push them to GitHub.
+
 
 ## Conclusion
 
