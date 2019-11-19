@@ -42,6 +42,21 @@ The models includes the following features:
 ## Technologies
 * Python (Pandas, Scikit-Learn, Tensorflow, Jupyter Notebook)
 
+## Output 
+
+#### Split data into training and testing data 
+
+![split data](Images/splitdata.PNG)
+
+#### Numerical data scale using `MinMaxScaler`
+
+![MinMaxScaler](Images/Minmaxscaler.PNG)
+
+#### Logistic Regression Model Training and Testing Scores
+
+![Logistic Regression](Images/logisticregressionscore.PNG)
+
+
 
 ## Get Started
 
