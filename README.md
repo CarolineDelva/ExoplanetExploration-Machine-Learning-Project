@@ -35,10 +35,8 @@ The final report includes the following features:
 * Statistical Analysis
 
 ## Technologies
-* Python (Pandas, Numpy, Matplotlib, Jypyter Notebook)
+* Python (Pandas, Scikit-Learn, Tensorflow, Jypyter Notebook)
 
-
-- - -
 
 ## Get Started
 
