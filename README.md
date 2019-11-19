@@ -44,15 +44,15 @@ The models includes the following features:
 
 ## Output 
 
-#### Split data into training and testing data 
+####  * Split data into training and testing data 
 
 ![split data](Images/splitdata.PNG)
 
-#### Numerical data scale using `MinMaxScaler`
+#### * Numerical data scale using `MinMaxScaler`
 
 ![MinMaxScaler](Images/Minmaxscaler.PNG)
 
-#### Logistic Regression Model Training and Testing Scores
+#### * Logistic Regression Model Training and Testing Scores
 
 ![Logistic Regression](Images/logisticregressionscore.PNG)
 
