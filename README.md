@@ -12,19 +12,19 @@ I completed this project during my time at the [Columbia Engineering Data Analyt
 
 The purpose of this project is to process data from NASA Kepler space to create machine learning models capable of classifying candidate exoplanets.
 
-The final report includes the following features:
+The models includes the following features:
 
 #### Preprocessed data
 
 * Preprocessed dataset prior to fitting the model.
-* Perform feature selection and remove unnecessary features.
-* Use `MinMaxScaler` to scale the numerical data.
-* Separate the data into training and testing data.
+* Feature selection and removal of unnecessary features.
+* Scaled numerical data with `MinMaxScaler`.
+* Data seperated into training and testing data.
 
 #### Tuned Model Parameters
 
-* Use `GridSearch` to tune model parameters.
-* Tune and compare at least two different classifiers.
+* Tuned model parameters with `GridSearch`.
+
 
 
 
