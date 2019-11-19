@@ -66,6 +66,11 @@ The models includes the following features:
 
 ![SVM](Images/SVM.PNG)
 
+#### * Deep Learning Model Accuracy and Loss
+
+![deep learning](Images/deeplearning.PNG)
+
+
 ## Get Started
 
 
