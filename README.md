@@ -25,6 +25,11 @@ The models includes the following features:
 
 * Tuned model parameters with `GridSearch`.
 
+#### Selected models
+* Support Vector Machine 
+* Logistic Regression
+* Deep Learning 
+
 
 
 
@@ -39,6 +44,14 @@ The models includes the following features:
 
 
 ## Get Started
+
+
+1. Clone this repository (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+2. Find the [exoplanet_data.csv](https://github.com/CarolineDelva/ExoplanetExploration-Machine-Learning-Project/blob/master/starter_code/exoplanet_data.csv) csv.
+3. Find the Python scripts in the [starter_code](https://github.com/CarolineDelva/ExoplanetExploration-Machine-Learning-Project/tree/master/starter_code) folder.
+
+htt
+4. Run the script in a [Jupyter Notebook](https://jupyter.org/).
 
 * Create a Jupyter Notebook for each model and host the notebooks on GitHub.
 
