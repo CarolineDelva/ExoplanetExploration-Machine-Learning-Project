@@ -23,7 +23,7 @@ The models includes the following features:
 
 #### Tuned Model Parameters
 
-* Tuned model parameters with `GridSearch`.
+* Tuned models parameters with `GridSearch`.
 
 #### Selected models
 * Support Vector Machine 
@@ -52,11 +52,19 @@ The models includes the following features:
 
 ![MinMaxScaler](Images/Minmaxscaler.PNG)
 
+#### * Tuned models parameters with `GridSearch`.
+
+
+![grid search](Images/gridsearch.PNG)
+
+
 #### * Logistic Regression Model Training and Testing Scores
 
 ![Logistic Regression](Images/logisticregressionscore.PNG)
 
+#### * Support Vector Machine Model Training and Testing Scores
 
+![SVM](Images/SVM.PNG)
 
 ## Get Started
 
