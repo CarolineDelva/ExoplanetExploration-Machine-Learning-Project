@@ -14,47 +14,29 @@ The purpose of this project is to process data from NASA Kepler space to create 
 
 The final report includes the following features:
 
-## Instructions
+#### Preprocessed data
 
-### Preprocess the Data
-
-* Preprocess the dataset prior to fitting the model.
+* Preprocessed dataset prior to fitting the model.
 * Perform feature selection and remove unnecessary features.
 * Use `MinMaxScaler` to scale the numerical data.
 * Separate the data into training and testing data.
 
-### Tune Model Parameters
+#### Tuned Model Parameters
 
 * Use `GridSearch` to tune model parameters.
 * Tune and compare at least two different classifiers.
 
-### Reporting
 
-* Create a README that reports a comparison of each model's performance as well as a summary about your findings and any assumptions you can make based on your model (is your model good enough to predict new exoplanets? Why or why not? What would make your model be better at predicting new exoplanets?).
 
-- - -
+## Methods Used
+* Machine Learning
+* Data Analysis 
+* Data Processing
+* Statistical Analysis
 
-## Resources
+## Technologies
+* Python (Pandas, Numpy, Matplotlib, Jypyter Notebook)
 
-* [Exoplanet Data Source](https://www.kaggle.com/nasa/kepler-exoplanet-search-results)
-
-* [Scikit-Learn Tutorial Part 1](https://www.youtube.com/watch?v=4PXAztQtoTg)
-
-* [Scikit-Learn Tutorial Part 2](https://www.youtube.com/watch?v=gK43gtGh49o&t=5858s)
-
-* [Grid Search](https://scikit-learn.org/stable/modules/grid_search.html)
-
-- - -
-
-## Hints and Considerations
-
-* Start by cleaning the data, removing unnecessary columns, and scaling the data.
-
-* Not all variables are significant be sure to remove any insignificant variables.
-
-* Make sure your `sklearn` package is up to date.
-
-* Try a simple model first, and then tune the model using `GridSearch`.
 
 - - -
 
