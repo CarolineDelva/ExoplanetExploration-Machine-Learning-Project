@@ -40,7 +40,7 @@ The models includes the following features:
 * Statistical Analysis
 
 ## Technologies
-* Python (Pandas, Scikit-Learn, Tensorflow, Jypyter Notebook)
+* Python (Pandas, Scikit-Learn, Tensorflow, Jupyter Notebook)
 
 
 ## Get Started
@@ -50,28 +50,7 @@ The models includes the following features:
 2. Find the [exoplanet_data.csv](https://github.com/CarolineDelva/ExoplanetExploration-Machine-Learning-Project/blob/master/starter_code/exoplanet_data.csv) csv.
 3. Find the Python scripts in the [starter_code](https://github.com/CarolineDelva/ExoplanetExploration-Machine-Learning-Project/tree/master/starter_code) folder.
 
-htt
-4. Run the script in a [Jupyter Notebook](https://jupyter.org/).
-
-* Create a Jupyter Notebook for each model and host the notebooks on GitHub.
-
-* Create a file for your best model and push to GitHub
-
-* Include a README.md file that summarizes your assumptions and findings.
-
-* Submit the link to your GitHub project to Bootcamp Spot.
-
-
-1. Create a new repository for this project called `machine-learning-challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Give each model you choose their own Jupyter notebook, **do not use more than one model per notebook.**
-
-4. Save your best model to a file. This will be the model used to test your accuracy and used for grading.
-
-5. Commit your Jupyter notebooks and model file and push them to GitHub.
-
+4. Run the script for each model in their own [Jupyter Notebook](https://jupyter.org/).
 
 ## Conclusion
 
